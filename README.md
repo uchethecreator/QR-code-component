@@ -22,7 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/simple-qrcode-card-using-flexbox-UiRvy7XHW2
+](https://www.frontendmentor.io/solutions/simple-qrcode-card-using-flexbox-UiRvy7XHW2
+)
 - Live Site URL: [https://uchethecreator.github.io/QR-code-component/](https://uchethecreator.github.io/QR-code-component/)
 
 ## My process
