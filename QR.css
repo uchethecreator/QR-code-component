@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body{
+    background-color:#d6dff0;
+    font-family:'outfit', sans-serif;
+}
+
+.container{
+    width:320px;
+    display: flex;
+    flex-direction: column;
+    height:550px;
+    background-color:white;
+    padding:30px;
+    justify-content:center;
+    margin:0 auto;
+    position:relative;
+    top:150px;
+    border-radius:25px;
+}
+
+img{
+    width:320px;
+    border-radius: 20px;
+    margin:auto;
+    
+}
+p{
+    margin:auto;
+    font-size:25px;
+    font-weight:700;
+    text-align:center;
+    
+}
+
+.small{
+    font-weight:400;
+    font-size:17px;
+    color:#7b879d;
+}
