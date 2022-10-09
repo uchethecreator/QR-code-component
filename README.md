@@ -50,7 +50,7 @@ Although I used the CSS positions to center the divs, I intend to also do that w
 
 ### Useful resources
 
-- [Example resource 1](https://youtu.be/-Wlt8NRtOpo) - This is an amazing tutorial on css flexbox which helped me finally understand the flexbox property. I'd recommend it to anyone still learning this concept.
+- [Flexbox tutorila](https://youtu.be/-Wlt8NRtOpo) - This is an amazing tutorial on css flexbox which helped me finally understand the flexbox property. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
