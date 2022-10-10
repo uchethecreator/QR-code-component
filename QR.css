@@ -29,9 +29,9 @@ img{
     margin:auto;
     
 }
-p{
+h1{
     margin:auto;
-    font-size:25px;
+    font-size:xx-large;
     font-weight:700;
     text-align:center;
     
@@ -39,6 +39,7 @@ p{
 
 .small{
     font-weight:400;
-    font-size:17px;
+    font-size:15px;
     color:#7b879d;
+    text-align:center;
 }
